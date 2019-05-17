@@ -1,0 +1,4 @@
+Server=golem.csse.rose-hulman.edu
+Database=Matchmaking_Simulator
+User Id=MatchSim_Client
+Password=Uvqg\uf4TW3zB)DVFyjX
